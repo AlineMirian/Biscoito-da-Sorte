@@ -15,7 +15,7 @@ Desafio Stage 05 - Avançando no JavaScript
 <br>
 
 <p align="center">
-    https://user-images.githubusercontent.com/92758108/225764155-8212cdb2-36ca-430e-a83e-80791c4fde08.mp4
+     <img alt="figma" src="/images/figma.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
